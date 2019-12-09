@@ -1,0 +1,28 @@
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{1}: reset: moving to a713646
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{2}: reset: moving to HEAD
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{3}: reset: moving to HEAD
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{4}: reset: moving to HEAD
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{5}: reset: moving to @{u}
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{6}: reset: moving to HEAD
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{7}: reset: moving to HEAD
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{8}: reset: moving to HEAD
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{9}: reset: moving to HEAD
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{10}: reset: moving to HEAD
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{11}: reset: moving to HEAD
+[33ma713646[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m HEAD@{12}: commit: Smart & Dumb: Added ‘PhoneDirectory’ as smart component, renamed ‘App…
+[33m02903de[m HEAD@{13}: commit: State: Added state in ‘AddSubscriber’ and ‘App’ components
+[33m27c56c2[m HEAD@{14}: commit: Added 'AddSubscriber' component
+[33m28d168f[m HEAD@{15}: commit: Props: Passed 'heading' to Header component as props
+[33m038c228[m HEAD@{16}: commit: Dynamic Content: Added 'Delete' Button
+[33mb63f24b[m HEAD@{17}: reset: moving to HEAD
+[33mb63f24b[m HEAD@{18}: reset: moving to HEAD
+[33mb63f24b[m HEAD@{19}: commit: Dynamic Content: Rendered Subscribers Dynamically
+[33ma1303fe[m HEAD@{20}: commit: Styling: Styled 'App' (Home Page)
+[33m1993735[m HEAD@{21}: commit: Styling: Styled 'Header' (External)
+[33m81c30e5[m HEAD@{22}: commit: Styling: Styled 'Header' (Inline)
+[33m39b6655[m HEAD@{23}: commit: Components: Created 'Header' Component
+[33m5a39b44[m HEAD@{24}: commit: JSX vs. HTML: Created Skeleton of Home Page
+[33m764844e[m HEAD@{25}: commit: JSX: Displayed 'Phone Directory'
+[33m687672e[m HEAD@{26}: commit: Codebase Cleanup
+[33mcdcb584[m HEAD@{27}: commit (initial): Initial Commit: Codebase Setup
