@@ -18,13 +18,14 @@ class AddSusbscriber extends Component {
         const state = this.state;
         state[e.target.name] = e.target.value;
         this.setState(state);
-        this.props.history.push("/");
+        
     }
 
      onFormSubmitted = (e) => {
         e.preventDefault();
         this.props.addSubscriberHandler(this.state);
         this.setState({ id: 0, name: '', phone: ' ' });
+        this.props.history.push("/");
     }
 
     render() {
